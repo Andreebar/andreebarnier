@@ -8,14 +8,14 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+<!-- 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD in applied mathematics (2022-ongoing) at Inrae []
 * M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in GitHub, GitHub University, 2012 -->
 
-Work experience
+<!-- Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
@@ -31,8 +31,8 @@ Work experience
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
-  
-Skills
+   -->
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
@@ -61,4 +61,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
